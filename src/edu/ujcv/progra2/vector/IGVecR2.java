@@ -2,6 +2,10 @@ package edu.ujcv.progra2.vector;
 
 public class IGVecR2 {
 
+    double x;
+    double y;
+    
+
     //privado los datos
     // un escalar que represente 'x' y 'y' los componentes del vector
 
